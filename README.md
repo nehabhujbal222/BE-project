@@ -1,2 +1,1 @@
-# BE-project
-Hellooooooooooooooo
+# Detection of Pneumonia in Chest X-rays using Transfer Learning based Approach
